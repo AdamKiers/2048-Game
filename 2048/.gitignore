@@ -20,3 +20,11 @@ x64/Release/
 
 # Others
 *.log
+
+x64/
+Debug/
+Release/
+*.vcxproj.filters
+2048_Game2048/x64/
+2048_Game/
+*.vcxproj.filters
