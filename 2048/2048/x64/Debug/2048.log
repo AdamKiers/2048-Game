@@ -1,0 +1,14 @@
+﻿  SFML_main.cpp
+D:\Universite\Projet\2048\SFML_main.cpp(17,11): warning C4267: 'initialisation' : conversion de 'size_t' en 'int', perte possible de données
+D:\Universite\Projet\2048\SFML_main.cpp(37,11): warning C4267: 'initialisation' : conversion de 'size_t' en 'int', perte possible de données
+D:\Universite\Projet\2048\SFML_main.cpp(49,11): warning C4267: 'initialisation' : conversion de 'size_t' en 'int', perte possible de données
+D:\Universite\Projet\2048\SFML_main.cpp(60,11): warning C4267: 'initialisation' : conversion de 'size_t' en 'int', perte possible de données
+D:\Universite\Projet\2048\SFML_main.cpp(74,11): warning C4267: 'initialisation' : conversion de 'size_t' en 'int', perte possible de données
+D:\Universite\Projet\2048\SFML_main.cpp(89,11): warning C4267: 'initialisation' : conversion de 'size_t' en 'int', perte possible de données
+D:\Universite\Projet\2048\SFML_main.cpp(119,11): warning C4267: 'initialisation' : conversion de 'size_t' en 'int', perte possible de données
+D:\Universite\Projet\2048\SFML_main.cpp(126,33): warning C4267: '=' : conversion de 'size_t' en 'int', perte possible de données
+D:\Universite\Projet\2048\SFML_main.cpp(183,11): warning C4267: 'initialisation' : conversion de 'size_t' en 'int', perte possible de données
+D:\Universite\Projet\2048\SFML_main.cpp(189,21): warning C4244: 'initialisation' : conversion de 'int' en 'float', perte possible de données
+D:\Universite\Projet\2048\SFML_main.cpp(190,21): warning C4244: 'initialisation' : conversion de 'int' en 'float', perte possible de données
+D:\Universite\Projet\2048\SFML_main.cpp(230,22): warning C4834: abandon de la valeur de retour de la fonction avec l’attribut [[nodiscard]]
+  2048.vcxproj -> D:\Universite\Projet\2048\x64\Debug\2048.exe
